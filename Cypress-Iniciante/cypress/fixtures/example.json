@@ -1,0 +1,26 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "jasonExplicação":"Json modelo de arquivo chave e valor, pode ser qualquer dado",
+  "isAnimal" : true,
+  "age": 29,
+  "arrays": "Pode contruir arrays no Json também",
+  "person": [
+    {
+      "name": "Sandra",
+      "age": 30,
+      "adress": "Saldanha Marinho"
+    },
+    {
+      "name": "Keila",
+      "age": 45,
+      "adress": "Saldanha Marinho"
+    },
+    {
+      "name": "Simone",
+      "age": 26,
+      "adress": "Marechal Deodoro"
+    }
+  ]
+}
