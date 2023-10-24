@@ -1,7 +1,0 @@
-{
-    "name" : "Desafio 2",
-    "email" : "emailcerto@teste.com",
-    "password" : "abc123",
-    "wrong_email" : "emailerrado",
-    "wrong_password" : "abc"
-}
